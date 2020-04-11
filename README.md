@@ -14,10 +14,10 @@
 
 | Link | Price | Cnt. | Total |
 |---|---|---|---|
-| [Micro servo](https://www.adafruit.com/product/169)] | $5.36 | 12 | $64.32 |
+| [Micro servo](https://www.adafruit.com/product/169) | $5.36 | 12 | $64.32 |
 
 ### Expensive
 
 | Link | Price | Cnt. | Total |
 |---|---|---|---|
-| [Micro servo HT](https://www.adafruit.com/product/1143)] | $8.96 | 12 | $107.52 |
+| [Micro servo HT](https://www.adafruit.com/product/1143) | $8.96 | 12 | $107.52 |
