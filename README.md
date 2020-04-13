@@ -10,14 +10,8 @@
 
 ## Parts
 
-### Cheap
-
 | Link | Price | Cnt. | Total |
 |---|---|---|---|
 | [Micro servo](https://www.adafruit.com/product/169) | $5.36 | 12 | $64.32 |
-
-### Expensive
-
-| Link | Price | Cnt. | Total |
-|---|---|---|---|
-| [Micro servo HT](https://www.adafruit.com/product/1143) | $8.96 | 12 | $107.52 |
+| [Servo Driver](https://www.adafruit.com/product/815) | $14.95 | 1 | $14.95 |
+| [Battery](https://www.adafruit.com/product/328) | $14.95 | 1 | $14.95 |
